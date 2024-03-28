@@ -7,6 +7,9 @@ body,
 #root {
   width: 100%;
   height: 100%;
-  background: #2b2b33;
   overflow: hidden;
+}
+
+body {
+  background-image: linear-gradient(to right bottom, #d1b1e2, #b7d8d8, #f7b0c2);
 }
